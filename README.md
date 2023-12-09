@@ -1,6 +1,10 @@
 Projeto Final {Reprograma} - Inteligência Artificial: Desafios da Regulamentação
 
 
+
+![**IA**](<ia e humano.jpg>)
+
+
 Objetivo
 
 Este projeto visa criar um intrumento de analise abrangente para o entedimento, fiscalização das implementações de IA.
@@ -27,13 +31,13 @@ Base de Dados: https://www.kaggle.com/
 👩🏾‍💻 Tecnologias e Dependências Utilizadas
 
 Ferramenta	Descrição
-python	- Linguagem de programação.
-pandas -	Biblioteca criada para a linguagem Python para manipulação e análise de dados.
-numpy	- Biblioteca para a linguagem Python, que suporta o processamento de grandes, multi-dimensionais arranjos e matrizes.
-matplotlib	Biblioteca de software para criação de gráficos e visualizações de dados em geral, feita para e da linguagem de programação Python.
-seaborn	Ferramenta para plotagem dos mais variados tipos de gráficos em Python.
-jupyter notebook	Aplicação web criada para desenvolver software de código aberto, padrões abertos e serviços para computação interativa em dezenas de linguagens de programação.
-Tableau	Plataforma de análise, exploração e gerenciamento de dados visuais.
+- python	- Linguagem de programação.
+-pandas -	Biblioteca criada para a linguagem Python pa-ra manipulação e análise de dados.
+-numpy	- Biblioteca para a linguagem Python, que suporta o processamento de grandes, -multi-dimensionais arranjos e matrizes.
+-matplotlib	Biblioteca de software para criação de gráficos e visualizações de dados em geral, feita para e da linguagem de programação Python.
+- seaborn	Ferramenta para plotagem dos mais variados tipos de gráficos em Python.
+-jupyter notebook	Aplicação web criada para desenvolver software de código aberto, padrões abertos e serviços para computação interativa em dezenas de linguagens de programação.
+- Tableau	Plataforma de análise, exploração e gerenciamento de dados visuais.
 
 👩🏾‍🔧 Visualização
 Link: https://public.tableau.com/app/profile/taianne.rocha/viz/ProjetoFinal-TaianneRocha/Histria1
